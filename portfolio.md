@@ -13,9 +13,10 @@ headerStyle: title
 		<!-- <h2>Selected Work</h2> -->
 
 		<article class="portfolio-piece box">
-			<h4><a href="https://github.com/divakarhebbar" target="_blank"><b><i>Project One</i> Project One</b></a></h4>
+			<h4><b>NYC Green Taxi Data Analysis</b></h4>
 			<p><b>Description:</b> 
-			Three lines description about the project.</p>
+			I have performed analysis on the data collected by the New York City Taxi on Green Taxis to answer specific questions. Certain claims about the traffic behaviour are validated or invalidated through statistical tests. Plausible hypotheses are developed for the observed behavior. I have also built a predictive model to predict the tipping percentage for a given trip.</p>
+			<p><b>Link to GitHub repository: </b><a href="https://github.com/divakarhebbar/nyc-green-taxi-data-analysis">here.</a> </p>
 		</article>
 
 		<article class="portfolio-piece box">
